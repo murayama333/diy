@@ -191,18 +191,18 @@ rm hello.txt
 #### Windowsの場合
 
 ```
-copy sample.txt sample2.txt
+copy itcaret.txt itcaret2.txt
 ```
 
 #### Macの場合
 
 ```
-cp sample.txt sample2.txt
+cp itcaret.txt itcaret2.txt
 ```
 
 
 #### ファイルを移動する
 
 ```
-mv sample2.txt sample3.txt
+mv itcaret2.txt itcaret3.txt
 ```
