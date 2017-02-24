@@ -13,13 +13,13 @@ Atomなどのエディタを起動して、以下の内容を記述し itcaret.b
 ```bat
 echo itcaret > itcaret.txt
 mkdir 2017
-mkdir 2017¥01
-mkdir 2017¥02
-copy itcaret.txt 2017¥01¥itcaret.txt
-copy itcaret.txt 2017¥02¥itcaret.txt
+mkdir 2017\01
+mkdir 2017\02
+copy itcaret.txt 2017\01\itcaret.txt
+copy itcaret.txt 2017\02\itcaret.txt
 ```
 
-> このページをコピペすると¥マークを認識しないことがあるので、注意してください。
+> キーボードから\\を入力するには¥マークを入力してください。このページをコピペすると¥マークを認識しないことがあるので、注意してください。
 
 ### Macの場合
 
