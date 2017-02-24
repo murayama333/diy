@@ -55,7 +55,7 @@ cd Desktop
 PHPプログラムを実行するには以下のように入力します。
 
 ```
-php -S localhost:8000 itcaret.php
+php -S localhost:8000
 ```
 
 そのあとブラウザ（Chromeなど）を開いて、次のURLを入力します。
@@ -204,7 +204,7 @@ mkdir("premium");
 
 ```php
 <?php
-rmdir("foo");
+rmdir("premium");
 ```
 
 ### Step6 ファイルを作成する
