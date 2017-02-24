@@ -176,7 +176,7 @@ echo Hello > hello.txt
 ##### Windowsの場合
 
 ```
-remove hello.txt
+del hello.txt
 ```
 
 ##### Macの場合
