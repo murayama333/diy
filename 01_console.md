@@ -201,7 +201,16 @@ cp itcaret.txt itcaret2.txt
 ```
 
 
+
 #### ファイルを移動する
+
+##### Windowsの場合
+
+```
+move itcaret2.txt itcaret3.txt
+```
+
+##### Macの場合
 
 ```
 mv itcaret2.txt itcaret3.txt
