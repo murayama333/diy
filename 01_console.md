@@ -135,18 +135,18 @@ cd C:¥Users¥murayama¥Desktop
 
 ### Step4 ファイルの内容を表示する
 
-フォルダにsample.txtがある場合
+フォルダにitcaret.txtがある場合
 
 #### Windowsの場合
 
 ```
-type sample.txt
+type itcaret.txt
 ```
 
 #### Macの場合
 
 ```
-cat sample.txt
+cat itcaret.txt
 ```
 
 ### Step5 フォルダを作成する
