@@ -17,3 +17,7 @@
 
 
 https://docs.google.com/a/kronos.jp/forms/d/e/1FAIpQLSdSGmwlXsr_8d90Z_28__DbhIYQAx1qoHUOEF2WvxuZdCaJZg/viewform?c=0&w=1
+
+
+
+https://goo.gl/forms/W744gyLHZJ2JOude2
